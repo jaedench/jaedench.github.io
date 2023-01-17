@@ -1,113 +1,115 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "name": "Jaeden Chang",
+    "label": "Computer Engineering Student",
+    "picture": "https://github.com/jaedench.png",
+    "email": "jaedench@hawaii.edu",
+    "phone": "808-224-2441",
+    "website": "https://jaedench.github.io",
+    "summary": "I am studying for a B.S. in Computer Engineering  at the University of Hawaii at Manoa. I expect to graduate in Spring, 2024.",
+    "location": { "address": "", "postalCode": "96707", "city": "Kapolei", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "jaedench", "url": "http://github.com/jaedench" },
+      { "network": "linkedin", "username": "jaedenchang", "url": "https://www.linkedin.com/in/jaeden-chang-b28094205/" }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Software Engineering" },
+    { "name": "Machine Learning" },
+    { "name": "Cyber Security" },
+    { "name": "Database Systems" },
+    { "name": "Algorithms and Data Structures" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "C", "C++", "Javascript", "SystemVerilog", "SQL" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++" ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Engineering (expected Spring, 2024)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2020-09-01",
       "endDate": "Present",
-      "courses": [
-      ]
+      "courses": [ "Basic Circuit Analysis I/II", "Intro to Digital Design", "Object Oriented Programming", "Physical Electronics", "Linear ALgebra and Machine Learning", "Digital Systems and Computer Design", "Discrete Math", "Engineering Electromagnetics" ]
     }
   ],
-  "work": [
+  "project teams": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Smart Campus Energy Lab, UH Manoa",
+      "position": "Firmware Team Member",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2022-08-01",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "SCEL VIP Firmware Team Member",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Collaborated with a team of engineering students to develop an environmental sensor network to aid in short term forecasting of renewable energy generation across the UH Manoa campus.", 
+        "Program and maintain firmware of sensor modules in C++ and conduct version control with Git/Github.",
+        "Develop server-side code in Python to facilitate storage and handling of acquired environmental data.", 
+        "Assist hardware teams with debugging of both software and hardware issues."
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "Micro VIP, UH Manoa",
+      "position": "Impedance Analyzer Team Member",
+      "website": "",
+      "startDate": "2022-01-01",
+      "endDate": "2022-05-01",
+      "summary": "Micro VIP Impedance Analyzer Team Member",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Collaborated with a team of engineering students to create an inexpensive impedance analyzer for cells.",
+        "Performed hand-calculated analysis of cellular systems to produce theoretical baselines for research.",
+        "Used COMSOL Multiphysics to model and simulate electrical responses of proposed designs.," 
+        "Implemented proposed impedance analyzer circuit and collected data using the Hioki IM3570."
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
+      "organization": "HKN, UH Manoa CoE ECE Department",
+      "website": "",
+      "position": "HKN Tutor",
+      "startDate": "2022-09-01",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "summary": "Tutor for Electrical and Computer Engineering Students",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Assist underclassmen engineering students with homework and classwork for 100/200 level electrical engineering courses", 
+        "Participate in various engineering-related service projects across Oahu"
       ]
     },
     {
-      "organization": "",
+      "organization": "IEEE Board, UH Manoa CoE",
       "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "position": "Student Advisory Board (SAB) Chair",
+      "startDate": "2022-09-01",
+      "endDate": "Present",
+      "summary": "Head of Student Advisory Board Club",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Manage the Student Advisory Board Club. The Student Advisory Board Club is a club that listens to the CENG/EE student's concerns or needs, and brainstorm solutions to solve them.", 
+        "Represent the different class standings and tracks of the Electrical and Computer Engineering department of the College of Engineering at UH Manoa.",
+        "Be the bridge to communicate and assist with student concerns and suggestions to faculty and industry partners.", 
+        "Help improve classes, labs, ECE department etc."
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "UH Manoa Regents Scholar",
+      "date": "2020-Present",
+      "awarder": "University of Hawaii at Manoa",
+      "summary": "Regents Scholarships are awarded to 20 outstanding freshmen who receive an SAT total score of at least 1340 or ACT combined score of at least 29, maintain at least a 3.5 GPA in academic subjects in high school, and whose extracurricular achievements are shown to be remarkable. Regents Scholars receive a full tuition waiver for four years of undergraduate study, $4,000 a year ($2000 per semester), and a one-time travel grant of $2,000."
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "UH Manoa Dean's List",
+      "date": "2020-Present",
+      "awarder": "University of Hawaii College of Engineering",
+      "summary": "Undergraduate students are awarded the Dean's List distinction when they have earned a semester GPA of 3.5 or higher and were enrolled in 12 or more credits for a grade, excluding CR/NC (credit/no credit), W (withdrawn), I (incomplete), F (failure) grades for the semester."
     }
   ],
   "references": [
