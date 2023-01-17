@@ -1,56 +1,56 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "name": "Jaeden Chang",
+    "label": "Computer Engineering Student",
+    "picture": "https://github.com/jaedench.png",
+    "email": "jaedench@hawaii.edu",
+    "phone": "808-224-2441",
+    "website": "https://jaedench.github.io",
+    "summary": "I am studying for a B.S. in Computer Engineering  at the University of Hawaii at Manoa. I expect to graduate in Spring, 2024.",
+    "location": { "address": "", "postalCode": "96707", "city": "Kapolei", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "jaedench", "url": "http://github.com/jaedench" },
+      { "network": "linkedin", "username": "jaedenchang", "url": "https://www.linkedin.com/in/jaeden-chang-b28094205/" },
+      //{ "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
+      //{ "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Software Engineering" },
+    { "name": "Machine Learning" },
+    { "name": "Cyber Security" },
+    { "name": "Database Systems" },
+    { "name": "Algorithms and Data Structures" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "C", "C++", "Python", "Javascript", "SystemVerilog", "SQL" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++" ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "institution": "University of Hawaii at Manoa, Honolulu, HI",
+      "area": "Computer Engineering (expected Spring, 2024)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2020-09-01",
       "endDate": "Present",
-      "courses": [
+      "courses": [ "Basic Circuit Analysis I/II", "Intro to Digital Design", "Object Oriented Programming", "Physical Electronics", "Linear ALgebra and Machine Learning", "Digital Systems and Computer Design", "Discrete Math", "Engineering Electromagnetics"
       ]
     }
   ],
-  "work": [
+  "school volunteer": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "UH Manoa CoE IEEE Board",
+      "position": "Student Advisory Board (SAB) Chair",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2022-09-01",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Head of Student Advisory Board Club",
       "highlights": [
         "Maintain, update, and oversee official college newspaper website",
         "Drive, design and build student-community projects for UH Manoa"
