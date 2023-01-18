@@ -37,7 +37,7 @@
       "studyType": "B.S.",
       "startDate": "2020-09-01",
       "endDate": "Present",
-      "courses": [ "Basic Circuit Analysis I/II", "Intro to Digital Design", "Object Oriented Programming", "Physical Electronics", "Linear ALgebra and Machine Learning", "Digital Systems and Computer Design", "Discrete Math", "Engineering Electromagnetics" ]
+      "courses": [ "Basic Circuit Analysis I/II", "Intro to Digital Design", "Object Oriented Programming", "Physical Electronics", "Linear Algebra and Machine Learning", "Digital Systems and Computer Design", "Discrete Math", "Engineering Electromagnetics" ]
     }
   ],
   "project teams": [
