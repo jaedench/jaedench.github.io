@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/animal_farm_full.jpeg
 title: "Animal Farm"
 date: 2022
 published: true
