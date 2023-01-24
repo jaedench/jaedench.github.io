@@ -11,6 +11,8 @@ labels:
   - Young professional
 ---
 
+<img width="300px" src="../img/software.jpg">
+
 ## Lost in the Infinite Amount of Possibilities
 
 “And submit.” I stared at the computer screen which would decide not only where I would continue my education but also how I would spend the rest of my life. Leading up to the days before college applications were due, I had no clue what I wanted to do. I always had a particular knack for math and the various sciences so it only made sense to my parents and college counselors that I pursue a career in some type of engineering. Prior to college, I had no experience with any type of engineering or coding whatsoever. I based my decision on the general salaries of the different types of engineers I found on Google. I entered UH Manoa’s electrical engineering department and continued taking required courses until the beginning of my sophomore year. Soon after exploring the basics of Python in EE 160, I discovered that I enjoyed coding much more than building electrical circuits. After taking EE 211, this discovery was cemented into my head as fact and I decided that computer engineering was a much better fit for me.
