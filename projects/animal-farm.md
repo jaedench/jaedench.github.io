@@ -17,3 +17,7 @@ Animal Farm is a project intended to teach the basics of C and C++ in EE 205 or 
   * Animal Farm 1: An array-based database of cats, where each a cat's attributes are collected in a struct.
   * Animal Farm 2: A procedural singly linked-list database of cats, where each cat is an object.
   * Animal Farm 3: A collection class that implements a singly linked database of Animal objects using: an abstract List, a concrete SinglyLinkedList, and generic Node. Added an abstract Animal (which also inherits from Node) & Mammal to the Cat object model.
+
+My role during this project was a student learning how to code in C and C++ for the first time. I was responsible for all of the work on this project because each individual student worked on their own code and repository. I was responsible for reading a very long document explaining the different tasks and requirements of each Animal Farm. Once my code was working properly or produced matching outputs to what was listed in the document, I pushed the files to Git and Github.
+
+From this project, I learned the importance of knowing a language well since the documentation used many keywords that were associated with certain features of the language. I also learned how to manage my time better. The new versions of Animal Farm were due once every few weeks and on top of that, we had smaller assignments and other classes to manage. I was able to learn how to work more efficiently by finding a quiet working environment and when I worked best. 
