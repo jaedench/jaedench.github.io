@@ -11,7 +11,7 @@ labels:
   - Young professional
 ---
 
-<img width="300px" src="../img/software.jpg">
+<img width="300px" src="../img/software.jpeg">
 
 ## Lost in the Infinite Amount of Possibilities
 
