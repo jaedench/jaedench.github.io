@@ -10,6 +10,10 @@ labels:
   - JavaScript
 ---
 
+<div class="text-center p-4">
+  <img width="300px" class="img-thumbnail" src="../img/javascript.jpeg" >
+</div>
+
 ## My Learning Experience
 
 In just the first week of the semester, I learned so much in ICS 314 alone. During the first weekend, I explored the basics of JavaScript and ES6 using freeCodeCamp. As a complete newbie to JavaScript, I had a lot to take in and adjust to in such little time. Although completing a total of 113 JavaScript exercises and 29 ES6 exercises gave me an excellent introduction to the language, I can’t say that I am completely confident in my JavaScript coding skills. Hopefully, with time and practice, my skills will improve and my JavaScript coding will become faster. Overall, I have enjoyed learning and practicing coding in JavaScript so far.
