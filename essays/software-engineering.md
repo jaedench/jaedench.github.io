@@ -12,7 +12,7 @@ labels:
 ---
 
 <div class="text-center p-4">
-  <img width="300px" src="../img/software.jpeg" class="img-thumbnail" >
+  <img width="300px" class="img-thumbnail" src="../img/software.jpeg" >
 </div>
 
 ## Lost in the Infinite Amount of Possibilities
