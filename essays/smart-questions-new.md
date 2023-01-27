@@ -22,7 +22,7 @@ How does one ask good questions? Being able to ask concise and intelligent quest
 While asking a question, there are a few important steps that could save you time in receiving an answer and the person taking the time to help you. To ensure that you are asking a smart question, first, make sure you are asking an appropriate forum. To get a timely and quality response, it is helpful to have a meaningful and specific subject header that follows the format of “object - deviation,” where the object specifies what thing is having a problem, and the deviation describes how the outcome is different from the expected behavior. Reread your question to make sure you have expressed your thoughts clearly and grammatically correct. While looking over the question, be precise and informative about your problem. By taking the time to research on your own and include it in the question demonstrates that you understand the problem before asking the question. Make sure to state exactly what is wrong and not what you think it could be. All of these techniques methods and techniques will help software engineers ensure that the questions they ask are “smart.”
 
 ## Not Smart, Stupid, Silly Questions
-To start, let’s look at an example of a “not smart” question. A Stack Overflow user asked, ["Javascript: Simple addition program not working”] (https://stackoverflow.com/questions/32562260/javascript-simple-addition-program-not-working). 
+To start, let’s look at an example of a “not smart” question. A Stack Overflow user asked, ["Javascript: Simple addition program not working"](https://stackoverflow.com/questions/32562260/javascript-simple-addition-program-not-working). 
 
 ```
 Q: Javascript: Simple addition program not working
