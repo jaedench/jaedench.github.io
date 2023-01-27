@@ -11,7 +11,7 @@ labels:
   - StackOverflow
 ---
 
-<img width="400px" class="rounded float-start pe-4" src="../img/questions.png">
+<img width="325px" class="rounded float-start pe-4" src="../img/questions.png">
 
 ## Am I a Smart Question Asker?
 As software engineers, we are expected to constantly think and solve problems. With this expectation, it comes as no surprise that we are expected to be good question-askers, however, this skill is not taught formally in classes. During my academic career, I often struggled with asking questions. I am naturally a shy person and hated speaking up in front of the class. Instead of asking the question I had, I often wondered whether or not it was a “stupid question.” 
