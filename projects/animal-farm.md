@@ -13,7 +13,7 @@ summary: "Animal Farm is a series of labs intended to teach the basics of C and 
 ---
 
 <div class="text-center p-4">
-  <img width="500px" class="img-thumbnail" src="../img/doxygen.jpeg" >
+  <img width="700px" src="../img/doxygen.png" class="img-thumbnail" >
 </div>
 
 [Animal Farm](https://github.com/jaedench/ee205-Animal-Farm) is a project intended to teach the basics of C and C++ in EE 205 or Object Oriented Programming at the University of Hawaii. Every week or two, a new version of Animal Farm was expected to be pushed to Github with more advanced requirements each time. Throughout the course of the project, I was able to learn how to refactor and improve source files. Initially, we wrote Animal Farm in C and later used CLion to refactor the code to represent the animals on the farms as objects. Towards the latter half of the project, I was introduced to README files, makefiles, and Doxygen notation. The different versions of Animal Farm were as follows:
