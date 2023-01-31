@@ -11,7 +11,9 @@ labels:
 summary: "A simplified 5-stage pipeline computer called PipeLite created using SystemVerilog and EDAPlayground"
 ---
 
-<img class="img-fluid" src="../img/pipeDiagram.png">
+<div class="text-center p-4">
+  <img width="500px" class="img-thumbnail" src="../img/pipeDiagram.jpeg" >
+</div>
 
 A PipeLite is a simplified version of a five-stage pipelined processor that runs on the same instruction set as the SingleLite computer. It is important to note that everything is synchronized with the positive clock edge, except the register file, which is synchronized with the negative clock edge. Some of the differences from the SingleLite single-cycle processor include that there are registers IFID, IDEX, EXMEM, and MEMWB buffers between the stages; the controller and PC logic may differ from the single-cycle processor; it is assumed that the only instructions executed are ADDI, SUBI, ADD, CBZ, B, and NOP; and the reset will clear the PC and set the IFID, IDEX, EXMEM, and MEMWB buffers so they do NOP operations. Note that resetting all of the buffers will avoid device outputs with an “x” at initialization, which will cause problems with debugging.
 
