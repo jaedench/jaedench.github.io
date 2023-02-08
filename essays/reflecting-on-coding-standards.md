@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Am I Doing It for Myself or Just for the Green Checkmark"
+title: "Am I Doing It for Myself or Just for the Green Checkmark?"
 # All dates must be YYYY-MM-DD format!
 date: 2022-02-07
 published: true
@@ -12,7 +12,7 @@ labels:
 ---
 
 <div class="text-center p-4">
-  <img width="300px" class="img-thumbnail" src="../img/ESLint.jpg" >
+  <img width="300px" src="../img/ESLint.jpg" class="img-thumbnail" >
 </div>
 
 ## Coding Standard Crazy
