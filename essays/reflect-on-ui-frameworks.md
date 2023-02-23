@@ -43,3 +43,6 @@ These are other examples of what can be done using Bootstrap efficiently.
   <img width="500px" src="../img/tesla.png" class="img-thumbnail" >
   <img width="500px" src="../img/murphys.png" class="img-thumbnail" >
 </div>
+<div class="text-center p-4">
+  <img width="500px" src="../img/tori.png" class="img-thumbnail" >
+</div>
