@@ -34,8 +34,8 @@ Although it was difficult for me to pick up, there are many reasons to learn to 
 After investing the same amount of time and effort in researching and attempting different formats of code, the website using Bootstrap has a much cleaner and aesthetically pleasing look as seen in the photos below.
 
 <div class="text-center p-4">
-  <img width="500px" src="../img/withoutUI" class="img-thumbnail" >
-  <img width="500px" src="../img/withUI" class="img-thumbnail" >
+  <img width="500px" src="../img/withoutUI.png" class="img-thumbnail" >
+  <img width="500px" src="../img/withUI.png" class="img-thumbnail" >
 </div>
 
 These are other examples of what can be done using Bootstrap efficiently.
