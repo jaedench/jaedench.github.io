@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Am I Doing It for Myself or Just for the Green Checkmark?"
 # All dates must be YYYY-MM-DD format!
-date: 2022-02-07
+date: 2023-02-07
 published: true
 labels:
   - JavaScript
