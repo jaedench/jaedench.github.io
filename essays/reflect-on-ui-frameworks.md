@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Behind the Screens"
 # All dates must be YYYY-MM-DD format!
-date: 2022-02-22
+date: 2023-02-22
 published: true
 labels:
   - UI Frameworks
