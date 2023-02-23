@@ -38,7 +38,7 @@ After investing the same amount of time and effort in researching and attempting
   <img width="500px" src="../img/withUI.png" class="img-thumbnail" >
 </div>
 
-These are other examples of I was able to produce using Bootstrap efficiently.
+These are other examples of what I was able to produce using Bootstrap efficiently.
 <div class="text-center p-4">
   <img width="500px" src="../img/tesla.png" class="img-thumbnail" >
   <img width="500px" src="../img/tori.png" class="img-thumbnail" >
