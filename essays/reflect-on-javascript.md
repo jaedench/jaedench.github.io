@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "A Newbie's Adventure in the World of JavaScript"
 # All dates must be YYYY-MM-DD format!
-date: 2022-01-18
+date: 2023-01-18
 published: true
 labels:
   - Coding
