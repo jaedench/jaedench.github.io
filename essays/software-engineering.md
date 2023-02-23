@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Switching to Software Engineering"
 # All dates must be YYYY-MM-DD format!
-date: 2022-01-17
+date: 2023-01-17
 published: true
 labels:
   - Software Engineering
