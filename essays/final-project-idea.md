@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Final Project Idea"
+title: "UHM Dating"
 date: 2023-03-28
 published: true
 labels:
@@ -12,7 +12,6 @@ labels:
   <img width="600px" class="img-thumbnail" src="../img/dating.jpeg" >
 </div>
 
-## UHM Dating
 <i>Contributors<i>: Jaeden Chang, Elis Diep, and Reid Lum
 
 ## Overview
