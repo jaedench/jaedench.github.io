@@ -9,7 +9,7 @@ labels:
     - Meteor
 ---
 <div class="text-center p-4">
-  <img width="300px" class="img-thumbnail" src="../img/dating.jpeg" >
+  <img width="600px" class="img-thumbnail" src="../img/dating.jpeg" >
 </div>
 
 ## UHM Dating
@@ -34,6 +34,7 @@ Some mockup pages include:
 <li>User profile page</li>
 <li>Browse users by interests and personality traits</li>
 
+
 ## Use case ideas
 Whether or not the following bullet points list all pages or not, the completed use case should show an end-to-end scenario of using the system.
 <li>
@@ -45,6 +46,7 @@ Admin goes to landing page, logs in, gets home page, and edits site.
 <li>
 User goes to landing page, logs in, finds people with compatible interests, and contacts them.
 </li>
+
 
 ## Beyond the basics
 After implementing the basic functionality, here are ideas for more advanced features:
