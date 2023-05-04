@@ -1,3 +1,18 @@
+---
+layout: essay
+type: essay
+title: "Software Skills for Success"
+# All dates must be YYYY-MM-DD format!
+date: 2023-05-03
+published: true
+labels:
+- Software Engineering
+- Coding Standards
+- Agile Project Management
+- IDPM
+- IDEs
+---
+
 During the Spring 2023 semester, I took my first software engineering course. Through this course, I was able to learn a variety of software engineering skills, however, it was not easy. After numerous hours of practicing using in-class practice WODs, Ana’s WODs, and the homework experiences, I was able to develop my skills to the point where I felt more confident in applying them to a team project. There were a few skills that I felt were important to software engineering in general that I could apply to other courses and projects in the future, which were Development Environments, Coding Standards, and Agile Project Management.
 
 ## Development Environments
