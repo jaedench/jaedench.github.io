@@ -24,11 +24,11 @@ Prior to this course, I had experience using development environments such as Ar
 ## Coding Standards
 <div class="container">
   <div class="row justify-content-center">
-    <div class="col text-center">
+    <div class="col">
       <img class="img-thumbnail" src="../img/ESLint2.jpg" width="250px">
     </div>
-    <div class="col text-center">
-      <img class="img-thumbnail" src="../img/checkmark.jpg" width="100px">
+    <div class="col">
+      <img class="img-thumbnail" src="../img/checkmark.jpg" width="250px">
     </div>
   </div>
 </div>
