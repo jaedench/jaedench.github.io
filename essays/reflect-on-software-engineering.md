@@ -17,17 +17,17 @@ During the Spring 2023 semester, I took my first software engineering course. Th
 
 ## Development Environments
 <div class="text-center p-4">
-  <img width="500px" class="img-thumbnail" src="../img/intelliJ.jpg" >
+  <img width="200px" class="img-thumbnail" src="../img/intelliJ.jpg" >
 </div>
 Prior to this course, I had experience using development environments such as Arduino IDE, Visual Studio Code, CLion, and Vim. In previous courses, I had used Integrated Development Environments (IDEs), but not to the extent that we used IDEs in this course. During the middle of the semester, we transitioned from a browser compiler, JSFiddle, to an IDE, IntelliJ. This allowed us to start developing web applications using HTML, CSS, Bootstrap, React, and Meteor. At first, I had a little bit of difficulty navigating through all of the different features, such as using the terminal to actually run the application and utilizing different folders and files to stay organized. As the semester continued, I really enjoyed learning all of the commands that helped make my code writing more efficient. For example, I loved using the duplicate function, the surround with tag function, and the search files for a specific declaration or word function. Overall, I believe that knowing how to use at least one IDE is a great skill to have and I will continue to use them in the future. I hope to learn more about other IDEs to figure out which one I enjoy using the most for future courses and projects.
 
 ## Coding Standards
 <div class="container">
   <div class="row justify-content-center">
-    <div class="col-md-6 text-center">
+    <div class="col text-center">
       <img class="img-thumbnail" src="../img/ESLint2.jpg" width="250px">
     </div>
-    <div class="col-md-6 text-center">
+    <div class="col text-center">
       <img class="img-thumbnail" src="../img/checkmark.jpg" width="100px">
     </div>
   </div>
@@ -37,7 +37,7 @@ Before this course, I believed I was good at following coding standards, but I w
 
 ## Agile Project Management
 <div class="text-center p-4">
-  <img width="500px" class="img-thumbnail" src="../img/IDPM.jpg" >
+  <img width="700px" class="img-thumbnail" src="../img/IDPM.jpg" >
 </div>
 During this course, we gained experience in a type of Agile Project Management called Issue Driven Project Management. Specifically, my group worked on a final project called jamb-UH-ree that allowed UH musicians to connect with one another through different student-led jam sessions. Through this final project, we utilized GitHub’s project management features to organize the development of the codebase. Prior to each milestone check-in, the team would sit down and create issues that needed to be tackled and closed before moving on to the next phase of the project. Each issue could be assigned to a project, a team member to complete, and a status column. This method of project management allowed many people to work on the project at the same time without breaking the codebase. When working on team projects, the GitHub and project organization can feel messy so having a consistent guideline to follow allowed everyone to be on the same page. This is one of the few projects I have worked on where everyone knew what to do and completed their tasks in a timely manner. Overall, I’m glad that I learned how to use these project management tools effectively because I will definitely implement them for any coding project I may encounter in the future.
 
