@@ -16,18 +16,18 @@
   "interests": [
     { "name": "Software Engineering" },
     { "name": "Machine Learning" },
-    { "name": "Cyber Security" },
+    { "name": "UI Development" },
     { "name": "Database Systems" },
-    { "name": "Algorithms and Data Structures" }
+    { "name": "Web Applications" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Javascript", "SystemVerilog", "SQL" ]
+      "keywords": [ "C", "C++", "Python", "Matlab", "SystemVerilog", "SQL", "HTML", "CSS", "JavaScript", "Boostrap", "React", "Meteor" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++" ]
+      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "IntelliJ IDEA" ]
     }
   ],
   "education": [
@@ -37,7 +37,7 @@
       "studyType": "B.S.",
       "startDate": "2020-09-01",
       "endDate": "Present",
-      "courses": [ "Basic Circuit Analysis I/II", "Intro to Digital Design", "Object Oriented Programming", "Physical Electronics", "Linear Algebra and Machine Learning", "Digital Systems and Computer Design", "Discrete Math", "Engineering Electromagnetics" ]
+      "courses": [ "Basic Circuit Analysis I/II", "Intro to Digital Design", "Object Oriented Programming", "Physical Electronics", "Linear Algebra and Machine Learning", "Digital Systems and Computer Design", "Discrete Math", "Engineering Electromagnetics", "Software Engineering", "Signal and System Analysis", "Microelectronic Circuits I", "Computer Data Structures & Algorithms" ]
     }
   ],
   "volunteer": [
@@ -46,7 +46,7 @@
       "website": "",
       "position": "HKN Tutor",
       "startDate": "2022-09-01",
-      "endDate": "Present",
+      "endDate": "2023-04-24",
       "summary": "Tutor for Electrical and Computer Engineering Students",
       "highlights": [
         "Assist underclassmen engineering students with homework and classwork for 100/200 level electrical engineering courses", 
@@ -54,17 +54,43 @@
       ]
     },
     {
-      "organization": "IEEE Board, UH Manoa CoE",
+      "organization": "HKN, UH Manoa CoE ECE Department",
+      "website": "",
+      "position": "HKN Vice President",
+      "startDate": "2023-04-22",
+      "endDate": "Present",
+      "summary": "Vice President of Eta Kappa Nu, Delta Omega Chapter",
+      "highlights": [
+        "HKN main point of contact for day-to-day operations and internal affairs",
+        "Assumes the role and responsibilities of the HKN President in their absence",
+        "Coordinates with the President and other officers on HKN, College of Engineering, outreach, community service, and social events",
+        "Primary Responsibilities: Blueprints, Holmescoming, and Induction Ceremony"
+      ]
+    },
+    {
+      "organization": "IEEE Executive Board, UH Manoa CoE",
       "website": "",
       "position": "Student Advisory Board (SAB) Chair",
       "startDate": "2022-09-01",
-      "endDate": "Present",
+      "endDate": "2023-05-04",
       "summary": "Head of Student Advisory Board Club",
       "highlights": [
         "Manage the Student Advisory Board Club. The Student Advisory Board Club is a club that listens to the CENG/EE student's concerns or needs, and brainstorm solutions to solve them.", 
         "Represent the different class standings and tracks of the Electrical and Computer Engineering department of the College of Engineering at UH Manoa.",
         "Be the bridge to communicate and assist with student concerns and suggestions to faculty and industry partners.", 
         "Help improve classes, labs, ECE department etc."
+      ]
+    },
+    {
+      "organization": "IEEE Executive Board, UH Manoa CoE",
+      "website": "",
+      "position": "Webmaster",
+      "startDate": "2023-05-04",
+      "endDate": "Present",
+      "summary": "IEEE Webmaster for UH Manoa CoE",
+      "highlights": [
+        "Maintain and update the club's main website and social media account",
+        "Maintain the club email list and organize the club's google drive materials"
       ]
     },
     {
