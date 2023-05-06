@@ -30,8 +30,8 @@ For this project, my group was comprised of four members: Caleb Mueller, Reid Lu
 I created the logo for jamb-UH-ree. I also worked on the development of some of the web pages, such as the edit profile page and the sign-in landing page, and components, such as the navbar and footer. Within the edit profile and create jam session pages, I worked on creating the required fields in order for the submission of the form to work.
 
 <div class="text-center p-4">
-    <img width="400px" src="../img/m3landing2.png" class="img-thumbnail" alt="sign in landing">
-    <img width="400px" src="../img/m3edit.png" class="img-thumbnail" alt="edit profile page">
+    <img width="600px" src="../img/m3landing2.png" class="img-thumbnail" alt="sign in landing">
+    <img width="600px" src="../img/m3edit.png" class="img-thumbnail" alt="edit profile page">
 </div>
 
 ## Great Learning Experience
