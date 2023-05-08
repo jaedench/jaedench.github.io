@@ -1,0 +1,122 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="title" content="Building Code Brick by Brick | Jaeden Chang | Professional Portfolio">
+    <meta name="description" content="">
+    <meta name="image" content="https://github.com/jaedench.png">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Jaeden Chang | Professional Portfolio">
+    <meta property="og:url" content="https://jaedench.github.io/essays/design-patterns.html">
+    <meta property="og:title" content="Building Code Brick by Brick | Jaeden Chang | Professional Portfolio">
+    <meta property="og:description" content="">
+    <meta property="og:image" content="https://github.com/jaedench.png">
+    <link rel="shortcut icon" href="/favicon.ico">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+    <link rel="stylesheet" href="/css/techfolio-theme/lime.css">
+    <link rel="stylesheet" type="text/css" href="/css/rouge/github.css">
+    <!-- Load MathJax if 'mathjax: true' is found in your _config.yml. -->
+    
+    <script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/latest.js?config=TeX-MML-AM_CHTML">
+    </script>
+    
+
+    <title>Building Code Brick by Brick | Jaeden Chang | Professional Portfolio</title>
+  </head>
+  <body>
+  <header class="navbar navbar-expand navbar-light bg-light bg-gradient border-bottom">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="/">Jaeden Chang</a>
+    <div class="ms-auto">
+      <ul class="navbar-nav mb-2 mb-lg-0">
+        <a class="nav-link" href="/#projects">Projects</a>
+        <a class="nav-link" href="/#essays">Essays</a>
+        <a class="nav-link" href="/resume.html">Resume</a>
+      </ul>
+    </div>
+  </div>
+</header>
+
+<div class="container py-4">
+  <h1 class="display-4">Building Code Brick by Brick</h1>
+  <span class="date">26 Apr 2023</span>
+  <hr>
+  <h2 id="legos">Legos?</h2>
+
+<div class="text-center p-4">
+  <img width="500px" class="img-thumbnail" src="../img/lego.jpg" />
+</div>
+
+<p>Once you begin to program, it can often feel like you’re playing with a bunch of Legos. Legos can be described as standardized blocks that can be combined using a simple, yet effective set of instructions to create various structures. Like the Lego bricks, design patterns play a similar role in the grand scheme of a large program. A design pattern is a general, proven, repeatable solution to a commonly occurring problem in software design. By utilizing the design patterns in different situations, scalable, reusable, easily understood, maintained, and more efficient code can be used to create various solutions.</p>
+
+<h2 id="bricks-galore">Bricks Galore!</h2>
+
+<div class="text-center p-4">
+  <img width="500px" class="img-thumbnail" src="../img/diff-lego.jpg" />
+</div>
+
+<p>There are a total of about 3764 unique Lego pieces that can be pieced together in different combinations. Similarly, there are different classifications of design patterns that can be used to solve different problems. Design patterns can be classified into three main categories: creational patterns, structural patterns, and behavioral patterns. Creational patterns create objects and classes that increase flexibility and reuse of existing code. Structural patterns organize code and classes into larger structures so they are easier to maintain and understand. Behavioral patterns manage the interactions between objects and classes.</p>
+
+<h2 id="my-lego-builds">My Lego Builds</h2>
+
+<div class="text-center p-4">
+  <img width="500px" class="img-thumbnail" src="../img/lego-build.jpg" />
+</div>
+
+<p>For the past couple of weeks, my team and I have been developing a website for UH Manoa musicians to create and connect through local jam sessions called <a href="https://github.com/jamb-uh-ree">jamb-UH-ree</a>. Within this project itself, there are many different design patterns.</p>
+
+<h3 id="singleton-design-pattern-example">Singleton Design Pattern Example</h3>
+<p>A type of creational pattern is the Singleton pattern. In this pattern, a “global variable” is created and can be accessed from anywhere in the project. Many Singleton patterns exist within the codebase since each collection was exported to the rest of the project, making it easier to manipulate them from the methods in the client-side code. Specifically below is an example from the Gigs.js file, which shows the Gigs Collection.</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>class GigsCollection {
+  constructor() {
+    // The name of this collection.
+    this.name = 'GigsCollection';
+    // Define the Mongo collection.
+    this.collection = new Mongo.Collection(this.name);
+    // Define the structure of each document in the collection.
+    this.schema = new SimpleSchema({
+      title: { type: String, optional: false },
+      image: { type: String, optional: false },
+      date: { type: Date, optional: false },
+      skillLevel: { type: String, allowedValues: ['Beginner', 'Intermediate', 'Advanced'], optional: true },
+      genres: { type: Array },
+      'genres.$': { type: String, optional: true },
+      instruments: { type: Array, optional: true },
+      'instruments.$': { type: String },
+      venue: { type: String, optional: true },
+      about: { type: String, optional: true },
+    });
+
+    // Ensure collection documents obey schema.
+    this.collection.attachSchema(this.schema);
+    // Define names for publications and subscriptions
+    this.userPublicationName = `${this.name}.publication.user`;
+    // this.adminPublicationName = `${this.name}.publication.admin`;
+  }
+}
+
+export const Gigs = new GigsCollection();
+</code></pre></div></div>
+<p>This is a Singleton pattern because the Gigs variable is an instance of the GigsCollection class and it is exported. Each time the module is imported, the same instance of the GigsCollection is returned. Thus, there is no way to create another instance of this class from outside of this module.</p>
+
+<h2 id="a-note-from-the-master-builder">A Note From the Master Builder</h2>
+<p>As the master builder, I can attest that design patterns are efficient tools that can help other master builders create easy-to-understand code. They provide an easy way to start projects as guidelines instead of starting from scratch. Prior to this essay, I had no clue what design patterns were. This didn’t matter because I implemented a variety of design patterns in the code I wrote for this course and others previously. Now that I am aware of how common and useful they are, I will continue to build my code brick by brick.</p>
+
+
+</div>
+
+<footer class="navbar navbar-expand navbar-light bg-light bg-gradient border-top">
+  <div class="container-fluid">
+    <div class="ms-auto">
+      <ul class="navbar-nav mb-2 mb-lg-0">
+        <small><a class="nav-link" href="https://techfolios.github.io">Made with Techfolios</a></small>
+      </ul>
+    </div>
+  </div>
+</footer>
+
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script>
+  </body>
+</html>

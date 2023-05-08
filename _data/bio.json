@@ -1,0 +1,145 @@
+{
+  "basics": {
+    "name": "Jaeden Chang",
+    "label": "Computer Engineering Student",
+    "picture": "https://github.com/jaedench.png",
+    "email": "jaedench@hawaii.edu",
+    "phone": "808-224-2441",
+    "website": "https://jaedench.github.io",
+    "summary": "I am studying for a B.S. in Computer Engineering  at the University of Hawaii at Manoa. I expect to graduate in Spring, 2024.",
+    "location": { "address": "", "postalCode": "96707", "city": "Kapolei", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "jaedench", "url": "http://github.com/jaedench" },
+      { "network": "linkedin", "username": "jaedenchang", "url": "https://www.linkedin.com/in/jaeden-chang-b28094205/" }
+    ]
+  },
+  "interests": [
+    { "name": "Software Engineering" },
+    { "name": "Machine Learning" },
+    { "name": "UI Development" },
+    { "name": "Database Systems" },
+    { "name": "Web Applications" }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "C", "C++", "Python", "Matlab", "SystemVerilog", "SQL", "HTML", "CSS", "JavaScript", "Boostrap", "React", "Meteor" ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "IntelliJ IDEA" ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Engineering (expected Spring, 2024)",
+      "studyType": "B.S.",
+      "startDate": "2020-09-01",
+      "endDate": "Present",
+      "courses": [ "Basic Circuit Analysis I/II", "Intro to Digital Design", "Object Oriented Programming", "Physical Electronics", "Linear Algebra and Machine Learning", "Digital Systems and Computer Design", "Discrete Math", "Engineering Electromagnetics", "Software Engineering I", "Signal and System Analysis", "Microelectronic Circuits I", "Computer Data Structures & Algorithms" ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "HKN, UH Manoa CoE ECE Department",
+      "website": "",
+      "position": "HKN Tutor",
+      "startDate": "2022-09-01",
+      "endDate": "2023-04-24",
+      "summary": "Tutor for Electrical and Computer Engineering Students",
+      "highlights": [
+        "Assist underclassmen engineering students with homework and classwork for 100/200 level electrical engineering courses", 
+        "Participate in various engineering-related service projects across Oahu"
+      ]
+    },
+    {
+      "organization": "HKN, UH Manoa CoE ECE Department",
+      "website": "",
+      "position": "HKN Vice President",
+      "startDate": "2023-04-22",
+      "endDate": "Present",
+      "summary": "Vice President of Eta Kappa Nu, Delta Omega Chapter",
+      "highlights": [
+        "HKN main point of contact for day-to-day operations and internal affairs",
+        "Assumes the role and responsibilities of the HKN President in their absence",
+        "Coordinates with the President and other officers on HKN, College of Engineering, outreach, community service, and social events",
+        "Primary Responsibilities: Blueprints, Holmescoming, and Induction Ceremony"
+      ]
+    },
+    {
+      "organization": "IEEE Executive Board, UH Manoa CoE",
+      "website": "",
+      "position": "Student Advisory Board (SAB) Chair",
+      "startDate": "2022-09-01",
+      "endDate": "2023-05-04",
+      "summary": "Head of Student Advisory Board Club",
+      "highlights": [
+        "Manage the Student Advisory Board Club. The Student Advisory Board Club is a club that listens to the CENG/EE student's concerns or needs, and brainstorm solutions to solve them.", 
+        "Represent the different class standings and tracks of the Electrical and Computer Engineering department of the College of Engineering at UH Manoa.",
+        "Be the bridge to communicate and assist with student concerns and suggestions to faculty and industry partners.", 
+        "Help improve classes, labs, ECE department etc."
+      ]
+    },
+    {
+      "organization": "IEEE Executive Board, UH Manoa CoE",
+      "website": "",
+      "position": "Webmaster",
+      "startDate": "2023-05-04",
+      "endDate": "Present",
+      "summary": "IEEE Webmaster for UH Manoa CoE",
+      "highlights": [
+        "Maintain and update the club's main website and social media account",
+        "Maintain the club email list and organize the club's google drive materials"
+      ]
+    },
+    {
+      "organization": "Smart Campus Energy Lab, UH Manoa",
+      "website": "",
+      "position": "Firmware Team Member",
+      "startDate": "2022-08-01",
+      "endDate": "Present",
+      "summary": "SCEL VIP Firmware Team Member",
+      "highlights": [
+        "Collaborated with a team of engineering students to develop an environmental sensor network to aid in short term forecasting of renewable energy generation across the UH Manoa campus.", 
+        "Program and maintain firmware of sensor modules in C++ and conduct version control with Git/Github.",
+        "Develop server-side code in Python to facilitate storage and handling of acquired environmental data.", 
+        "Assist hardware teams with debugging of both software and hardware issues."
+      ]
+    },
+    {
+      "organization": "Micro VIP, UH Manoa",
+      "website": "",
+      "position": "Impedance Analyzer Team Member",
+      "startDate": "2022-01-01",
+      "endDate": "2022-05-01",
+      "summary": "Micro VIP Impedance Analyzer Team Member",
+      "highlights": [
+        "Collaborated with a team of engineering students to create an inexpensive impedance analyzer for cells.",
+        "Performed hand-calculated analysis of cellular systems to produce theoretical baselines for research.",
+        "Used COMSOL Multiphysics to model and simulate electrical responses of proposed designs.", 
+        "Implemented proposed impedance analyzer circuit and collected data using the Hioki IM3570."
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "UH Manoa Regents Scholar",
+      "date": "2020-Present",
+      "awarder": "University of Hawaii at Manoa",
+      "summary": "Regents Scholarships are awarded to 20 outstanding freshmen who receive an SAT total score of at least 1340 or ACT combined score of at least 29, maintain at least a 3.5 GPA in academic subjects in high school, and whose extracurricular achievements are shown to be remarkable. Regents Scholars receive a full tuition waiver for four years of undergraduate study, $4,000 a year ($2000 per semester), and a one-time travel grant of $2,000."
+    },
+    {
+      "title": "UH Manoa Dean's List",
+      "date": "2020-Present",
+      "awarder": "University of Hawaii College of Engineering",
+      "summary": "Undergraduate students are awarded the Dean's List distinction when they have earned a semester GPA of 3.5 or higher and were enrolled in 12 or more credits for a grade, excluding CR/NC (credit/no credit), W (withdrawn), I (incomplete), F (failure) grades for the semester."
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
+
